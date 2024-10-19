@@ -1,0 +1,24 @@
+
+#walmart{
+    float: left;
+    position: relative;
+    top: -35px;
+    right: -10px;
+    margin-right: 40px;
+
+}
+#searchBox{
+    float: left;
+}
+#searchbutton:hover{
+    background-color: white;
+   
+}
+#cartbutton{
+    position: relative;
+    left: 100px;
+    bottom:-2px;
+}
+#cartbutton:hover{
+    background-color: white;
+}
